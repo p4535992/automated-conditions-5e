@@ -30,7 +30,7 @@
       ] 
   },
   "bugs": "https://github.com/thatlonelybugbear/automated-conditions-5e/issues",
-  flags": {
+  "flags": {
     "allowBugReporter": true
   },
   "url": "https://github.com/thatlonelybugbear/automated-conditions-5e",
